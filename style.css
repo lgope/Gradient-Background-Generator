@@ -24,3 +24,15 @@ h3 {
   text-transform: none;
   letter-spacing: 0.01em;
 }
+
+button {
+  padding: 10px;
+  color: rgba(241, 237, 241, 0.945);
+  background-color: rgba(54, 52, 52, 0.849);
+  border-color: black;
+  border-radius: 10px;
+  font-size: 15px;
+  font-family: calibri;
+  font-weight: 20px;
+  display: inline-block;
+}
